@@ -1,5 +1,5 @@
 /*
-  Programa para controlar motores Paso a Paso con avance de paso completo
+  Programa para controlar motores Paso a Paso con avance de paso completo --> L298N y ESP32
 */
 
 // Definición de constantes
